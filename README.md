@@ -23,6 +23,8 @@ hasil jadinya
 
 # Detail (Blender)
 
+ada beberapa detail yang tidak terlihat dan harus nampak dari dekat di deploy , jadi saya akan memberikannya 
+
 tampak depan seperti ini
 
 <img width="1042" alt="image" src="https://github.com/user-attachments/assets/675dae1d-6652-4b44-872c-5517885141f5" />
