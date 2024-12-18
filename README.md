@@ -6,6 +6,7 @@
 
 # Link Deploy
 https://mbahbud.github.io/FP-WebGL-Keyboard/
+**untuk loadnya membutuhkan waktu yang agak lama, jadi mohon sabar menunggu **
 
 # Mechanical keyboard
 
